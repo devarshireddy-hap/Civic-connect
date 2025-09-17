@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "name": "System Administrator"
+  },
+  "staff": {
+    "password": "f9e6e6ef2dea2f90b63edecd1ff4b11bbc8c02ac5d9f0caa0a5e5e5ca2cf0c1e",
+    "role": "staff", 
+    "name": "Municipal Staff"
+  }
+}
